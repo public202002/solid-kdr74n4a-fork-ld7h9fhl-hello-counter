@@ -1,2 +1,11 @@
-# solid-kdr74n4a-fork-ld7h9fhl-hello-counter
-Created with WebComponents.dev
+```js script
+import "./index.js";
+```
+
+# Solid Starter Kit
+
+<my-counter></my-counter>
+
+### Links
+
+- [GitHub](https://github.com/ryansolid/solid)

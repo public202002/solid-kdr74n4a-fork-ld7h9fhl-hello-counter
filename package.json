@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/null.solid-kdr74n4a-fork-ld7h9fhl",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve KoTGRG1G6IVBdYXjJjV6 --open"
+  }
+}
